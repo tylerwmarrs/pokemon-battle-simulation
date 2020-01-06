@@ -1,0 +1,9 @@
+attack_type,Fire,Water,Grass,Electric,Ice,Psychic,Normal,Fighting,Flying,Ground,Rock,Bug,Poison,Ghost,Dragon
+Normal,1,1,1,1,1,1,1,1,1,1,0.5,1,1,0,1
+Fighting,1,1,1,1,2,0.5,2,1,0.5,1,2,0.5,0.5,0,1
+Flying,1,1,2,0.5,1,1,1,2,1,1,0.5,2,1,1,1
+Ground,2,1,0.5,2,1,1,1,1,0,1,2,0.5,2,1,1
+Rock,2,1,1,1,2,1,1,0.5,2,0.5,1,2,1,1,1
+Bug,0.5,1,2,1,1,2,1,0.5,0.5,1,1,1,2,1,1
+Poison,1,1,2,1,1,1,1,1,1,0.5,0.5,2,0.5,0.5,1
+Ghost,1,1,1,1,1,0,0,1,1,1,1,1,1,2,1
